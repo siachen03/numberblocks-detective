@@ -1,0 +1,13 @@
+{
+  "name": "数字积木小侦探",
+  "short_name": "数字积木",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#eaf5ff",
+  "theme_color": "#eaf5ff",
+  "orientation": "portrait",
+  "icons": [
+    {"src":"./icon-180.png","sizes":"180x180","type":"image/png"},
+    {"src":"./icon-512.png","sizes":"512x512","type":"image/png"}
+  ]
+}
