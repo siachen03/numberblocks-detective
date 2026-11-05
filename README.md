@@ -4,7 +4,7 @@
 
 [**在线体验**](https://dounaoo.github.io/numberblocks-detective/)
 
-![数字积木小侦探图标](icon-512.png)
+![数字积木小侦探 v34 首页](docs/preview.png)
 
 ## 怎么玩
 
@@ -17,6 +17,7 @@
 此仓库归档 **v34**。`index.html` 已内嵌所需的数字积木图片；`manifest.webmanifest`、`sw.js` 和图标用于在支持的浏览器中安装和离线使用。网页无需构建步骤。
 
 ```text
+docs/preview.png
 index.html
 icon-180.png
 icon-512.png
