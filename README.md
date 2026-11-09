@@ -2,7 +2,7 @@
 
 一款适合儿童的数字积木网页小游戏。选择难度后，每次进入都会随机生成 10 道题；题目围绕 0–20 的加减与数字规律展开。
 
-[**在线体验**](https://dounaoo.github.io/numberblocks-detective/)
+[**在线体验**](https://siachen03.github.io/numberblocks-detective/)
 
 ![数字积木小侦探 v34 首页](docs/preview.png)
 
